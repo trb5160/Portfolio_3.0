@@ -1,10 +1,13 @@
 Tom Barber - Portfolio
 
-Description: As a prospective web-developer, a well-made portfolio is a must. To help with that, I was tasked with updating a portfolio I had made in the past. To accomplish this, I made use of bootstrap to make the webpage look cleaner. Improvements made were a cleaner looking navbar, a curved profile picture, and bootstrap figures to show off previous work. Future improvements I would like to make include showing more of my previous work, as well as possibly using javascript to seperate the different sections so that the sections of the portfolio are seperate pages instead of all being on the same one.
+Description: As a prospective web-developer, a well-made portfolio is a must. To help with that, I was tasked with updating a portfolio I had made in the past. This is the second time that I've updated the website to bring it more in line with what I want.  The changes that I made to this one were smaller than before.  
+I was happy with the general layout of the page, and as such I spent the bulk of the time fixing errors in the code that I did not catch last time.  I finally got
+the website navbar working, I added a link to the github repositories that go with the pieces I included in the site, and I fixed the link to my resume at the end so that it would show up when someone other than me looked at it.  With these updates, I feel that the website functions a lot better than it does in its previous 
+incarnations.  Any future improvements would be to add entirely new functionality instead of improving what's already here.
 
-Website Link: https://trb5160.github.io/Portfolio-2.0/ Github Link: https://github.com/trb5160/Portfolio-2.0.git
+Website Link: https://trb5160.github.io/Portfolio_3.0/ Github Link: https://github.com/trb5160/Portfolio_3.0.git
 
-
+![Alt text](./assets/images/portfolioScreenshot.png)
 
 License: 
 
